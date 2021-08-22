@@ -1,2 +1,2 @@
 # Stocks_Trading_Bot
-A simple dumbass trading bot
+This is a simple dumbass trading bot which only tells you when to buy and hold it till today
